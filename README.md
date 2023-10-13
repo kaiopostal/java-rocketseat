@@ -14,7 +14,17 @@ O curso inclui os seguintes tópicos:
 - Atualizando tarefas e validação de rotas
 - Deploy do Back-End
 
-- [Link para o Curso na Rocketseat](https://app.rocketseat.com.br/)
+
+## Extensões VSCODE
+- **vscjava.vscode-java-pack**
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-java-test
+    - vscjava.vscode-java-dependency
+    - vscjava.vscode-maven
+    - redhat.java
+- **vscjava.vscode-spring-initializr**
+- **vmware.vscode-spring-boot**
+- **vscjava.vscode-spring-boot-dashboard**
 
 ## Contribuição
 
